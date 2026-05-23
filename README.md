@@ -13,7 +13,7 @@ It provides realtime market monitoring, dynamic stock charts, customizable widge
 Add your Netlify deployment URL here:
 
 ```txt
-https://your-netlify-url.netlify.app
+https://chanchalfinanceboard.netlify.app/
 ```
 
 ---
