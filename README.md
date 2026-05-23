@@ -10,7 +10,7 @@ It provides realtime market monitoring, dynamic stock charts, customizable widge
 
 # 🚀 Live Demo
 
-Add your Netlify deployment URL here:
+Live Demo URL:
 
 ```txt
 https://chanchalfinanceboard.netlify.app/
