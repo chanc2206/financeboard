@@ -39,7 +39,7 @@ https://your-netlify-url.netlify.app
 
 The main dashboard displaying realtime stock prices, gainers, widgets, live ticker tape, and interactive finance cards.
 
-![Dashboard Overview](./screenshots/screenshot1.png)
+![Dashboard Overview](./screenshots/Screenshot1.png)
 
 ---
 
@@ -47,7 +47,7 @@ The main dashboard displaying realtime stock prices, gainers, widgets, live tick
 
 Custom watchlist tracking with realtime stock prices and ETF performance analytics including YTD, 1Y, and 3Y performance.
 
-![Watchlist & ETF Performance](./screenshots/screenshot2.png)
+![Watchlist & ETF Performance](./screenshots/Screenshot2.png)
 
 ---
 
@@ -55,7 +55,7 @@ Custom watchlist tracking with realtime stock prices and ETF performance analyti
 
 Interactive realtime chart visualization with selectable stock symbols and timeframe controls.
 
-![Realtime Chart](./screenshots/screenshot3.png)
+![Realtime Chart](./screenshots/Screenshot3.png)
 
 ---
 
